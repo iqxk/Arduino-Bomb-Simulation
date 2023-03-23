@@ -1,6 +1,6 @@
-# Arduino-Bomb
+# Arduino-Bomb-Simulation
 <img src="https://user-images.githubusercontent.com/107581764/174339676-8663809e-2466-4ec2-93cb-ccd9f4cd1b08.png" />
-<p>Harmless bomb written in Arduino using Tinkercad.</p>
+<p>Harmless bomb simulation written in Arduino using Tinkercad.</p>
 <p>You can check out the project <a href="https://www.tinkercad.com/things/9lebQKlbEj7?sharecode=62i-0bDGIzcFnI7xSlh_0hstgSUGBaLMPoi1eESHkew">here</a>.</p>
 
 <hr />
